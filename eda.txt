@@ -4,3 +4,5 @@ Add a third line of code.
 Add a fourth line.
 Our fifth line.
 We add another line of code.
+
+Write some visualizations.
